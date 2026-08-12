@@ -32,10 +32,6 @@
 安装这个Skill: https://github.com/geekbi/geekbi-temu-shop-search-skill
 ```
 
-## 登录态复用
-
-本 Skill 与其他极鲸云 Temu Skills 共用同一套登录态。任意一个 Skill 完成登录后，在登录态有效期内，其他极鲸云 Temu Skills 会自动复用，通常无需重复登录。
-
 ## 开始使用
 
 安装后直接用中文描述目标即可，例如：
