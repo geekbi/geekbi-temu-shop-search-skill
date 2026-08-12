@@ -1,0 +1,4 @@
+interface:
+  display_name: "极鲸云 Temu 店铺搜索"
+  short_description: "搜索和分析 Temu 店铺，研究竞店规模、增长和经营效率"
+  default_prompt: "使用 $geekbi-temu-shop-search-skill 搜索并分析 Temu 竞品店铺。"
